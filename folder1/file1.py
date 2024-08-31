@@ -1,2 +1,2 @@
 def nice_function():
-    print("This is a nice function")
+    print("This is a nice function. I lied")
